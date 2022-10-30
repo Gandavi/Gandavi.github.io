@@ -1,0 +1,94 @@
+.btn-light{
+    margin: 5px;
+}
+.txt-head{
+    font-size: 30px;
+}
+.txt-con{
+    font-size: 50px;
+}
+.bel{   
+    height: 100%;
+}
+h1{
+    text-align: center;
+}
+.bel > h1{
+    position: absolute;
+    font-size: 45px;
+    top: 0;
+}
+.com-txt{
+    margin: auto;
+    width: 90%;
+    text-align: center; 
+}
+.bg-light{
+    background-image: url(Rectangle_2.png);
+}
+.fon{
+    background-color: rgb(185, 185, 185 , 0.6);
+}
+.pf-img{
+    width: 350px;
+    margin: auto;
+}
+.foot-bt{
+    margin-bottom: 2%;
+}
+.soc-img{
+    width: 40px;
+}
+.navbar{
+    background-color: #0089D7;
+}
+.isch{
+    display: none;
+  }
+ .hov-pr:hover {
+    background: rgb(235, 235, 235);
+    border-radius: 20px;
+    }
+    
+    .hov-pr:hover .hov-pr{
+    -webkit-filter: grayscale(0%);
+    -moz-filter: grayscale(0%);
+    -ms-filter: grayscale(0%);
+    -o-filter: grayscale(0%);
+    filter: none;
+
+    }
+.hov-pr:hover .hov-pr{
+display: block;
+
+}
+.pr-img{
+    width: 100px;
+}
+.pr-btn{
+    margin-bottom: 20px;
+}
+.image {
+    
+    overflow:hidden;
+}
+
+
+.img-pr{
+    width: 100%;
+}
+.carousel-caption{
+    margin: auto;
+    width: 40%;
+    background: rgba(203, 203, 203, 0.6);
+    border-radius: 40px;
+}
+.log{
+    width: 200px;
+}
+.header-blue{
+    font-size:30px;
+}
+.con-h{
+    margin-left:2%;
+}
